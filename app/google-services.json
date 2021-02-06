@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373275659152",
+    "project_id": "circle-chat-app",
+    "storage_bucket": "circle-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373275659152:android:6e73207d5ecef6f1ef0115",
+        "android_client_info": {
+          "package_name": "com.prantik.circle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373275659152-cukq4knj2lgkpmpbkq7khdjuu8gqcuha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR9D6_tUO2VrcuBEeeoFoD-5nqPFLrbII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373275659152-cukq4knj2lgkpmpbkq7khdjuu8gqcuha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
